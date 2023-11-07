@@ -1,0 +1,72 @@
+#background
+{
+ background-color:rgb(236, 224, 224);
+ height:1050px;
+}
+#topbar
+{
+  background-color:rgb(43, 41, 41);
+  height:230px;
+  
+  margin: 5px;
+}
+img{
+    border-radius:50%;
+    margin:30px;
+    padding:5px;
+    float:left;
+}
+#pro
+{
+  text-align:center;
+  font-size:40px;
+  font-family:'Times New Roman', Times, serif;
+  color: beige;
+}
+#pro1
+{
+    text-align:center;
+    color: beige;
+}
+#containor
+{
+  background-color:rgb(143, 129, 129);
+  height:100px;
+  margin: 5px;
+  padding:0cqh;
+}
+#containor1
+{
+  background-color:rgb(143, 129, 129);
+  height:140px;
+  margin: 5px;
+  padding:0cqh;
+}
+#nav
+{
+  background-color:rgb(17, 14, 14);
+  height:40px;
+ 
+  margin:5px;
+  padding: 0cqh;
+}
+#nav ul
+{
+ float:center;
+}
+#nav ul li
+{
+   display:inline;
+   margin-right:20px;
+}
+#nav ul li a
+{
+  color:whitesmoke;
+  text-decoration:none;
+}
+button
+{
+    background-color: rgb(49, 49, 68);
+    background-size: 0cap;
+    color:aliceblue;
+}
